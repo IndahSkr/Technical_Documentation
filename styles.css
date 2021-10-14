@@ -26,7 +26,7 @@ header {
 }
 
 #navbar ul {
-    height: 90%;
+    height: 88%;
     padding: 0;
     overflow-y: auto;
     overflow-x: hidden;
@@ -63,6 +63,7 @@ header {
 section article {
     color: #9E7777;
     margin: 15px;
+    font-size: 0.96em;
 }
 
 section li {
